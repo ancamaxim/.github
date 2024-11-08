@@ -19,15 +19,6 @@ I am a Computer Science student from Bucharest, Romania.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-
-## STATS
-
-<p>
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ancamaxim&show_icons=true&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ancamaxim&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
-</p>
-
 <!---
 ancamaxim/ancamaxim is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
