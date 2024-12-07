@@ -4,7 +4,7 @@ I am a Computer Science student from Bucharest, Romania.
 ## BIO
 
 - I’m currently studying at University POLITEHNICA of Bucharest
-- I’m currently learning programming languages: `C`, `C++`, `Python`, `Assembly (x86)`, `Rust`
+- I’m currently learning programming languages: `C`, `C++`, `Java`, `Python`, `Assembly (x86)`, `Rust`
 - I’m looking forward to collaborate on **Open Source** projects
 - How to reach me: anca_stefania.maxim@stud.acs.upb.ro
 
